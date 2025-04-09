@@ -3,7 +3,7 @@
  */
 
 import axios from 'axios';
-import { Message, BuddyVibe, GrowthUpdate, BuddyMessage } from '../types';
+import { Message, BuddyVibe, GrowthUpdate } from '../types';
 
 // This is the key change - pointing to your deployed backend
 const API_URL = 'https://zentrafuge-backend.onrender.com/api';
